@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-18T19:57:26 IST" name="Default Suite" finished-at="2022-02-18T19:57:26 IST" duration-ms="203">
+    <groups>
+    </groups>
+    <test started-at="2022-02-18T19:57:26 IST" name="chennaiah" finished-at="2022-02-18T19:57:26 IST" duration-ms="203">
+      <class name="TestNG">
+        <test-method is-config="true" signature="Beforesuite()[pri:0, instance:TestNG@79924b]" started-at="2022-02-18T19:57:26 IST" name="Beforesuite" finished-at="2022-02-18T19:57:26 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforesuite -->
+        <test-method is-config="true" signature="Beforetest()[pri:0, instance:TestNG@79924b]" started-at="2022-02-18T19:57:26 IST" name="Beforetest" finished-at="2022-02-18T19:57:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforetest -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:TestNG@79924b]" started-at="2022-02-18T19:57:26 IST" name="beforeclass" finished-at="2022-02-18T19:57:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method signature="test()[pri:0, instance:TestNG@79924b]" started-at="2022-02-18T19:57:26 IST" name="test" finished-at="2022-02-18T19:57:26 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="Beforemethode()[pri:0, instance:TestNG@79924b]" started-at="2022-02-18T19:57:26 IST" name="Beforemethode" finished-at="2022-02-18T19:57:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforemethode -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:TestNG@79924b]" started-at="2022-02-18T19:57:26 IST" name="afterclass" finished-at="2022-02-18T19:57:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftermethode()[pri:0, instance:TestNG@79924b]" started-at="2022-02-18T19:57:26 IST" name="aftermethode" finished-at="2022-02-18T19:57:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethode -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:TestNG@79924b]" started-at="2022-02-18T19:57:26 IST" name="aftertest" finished-at="2022-02-18T19:57:26 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:TestNG@79924b]" started-at="2022-02-18T19:57:27 IST" name="aftersuite" finished-at="2022-02-18T19:57:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- TestNG -->
+    </test> <!-- chennaiah -->
+  </suite> <!-- Default Suite -->
+</testng-results>
